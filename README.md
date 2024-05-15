@@ -1,1 +1,1 @@
-# TIMP_lab02
+# TIMP-lab02
